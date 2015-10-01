@@ -1,2 +1,4 @@
-# PhilipsLandingPages
-Philips template landing page
+# Philips template landing page
+
+* Template landing page for MVP design
+
